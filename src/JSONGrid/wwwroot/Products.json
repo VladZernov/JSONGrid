@@ -1,0 +1,46 @@
+{
+  "Products": [
+    {
+      "Id": "1",
+      "ImgSrc": "images/img01.jpg",
+      "Name": "Green Tea with Fruit",
+      "FullDescription": "Green Tea with Fruits",
+      "Price": "10.00$"
+    },
+    {
+      "Id": "2",
+      "ImgSrc": "images/img02.jpg",
+      "Name": "Mixed Berries Tea",
+      "FullDescription": "Mixed Berries Tea",
+      "Price": "10.00$"
+    },
+    {
+      "Id": "3",
+      "ImgSrc": "images/img03.jpg",
+      "Name": "Red Dragon Tea",
+      "FullDescription": "Red Dragon Tea",
+      "Price": "7.00$"
+    },
+    {
+      "Id": "4",
+      "ImgSrc": "images/img04.jpg",
+      "Name": "Earl Grey Tea",
+      "FullDescription": "Earl Grey Tea",
+      "Price": "3.50$"
+    },
+    {
+      "Id": "5",
+      "ImgSrc": "images/img05.jpg",
+      "Name": "Masala Tea",
+      "FullDescription": "Masala Tea",
+      "Price": "2.75$"
+    },
+    {
+      "Id": "6",
+      "ImgSrc": "images/img06.jpg",
+      "Name": "Green Tea with Jasmine",
+      "FullDescription": "Green Tea with Jasmine",
+      "Price": "4.50$"
+    }
+  ]
+}
